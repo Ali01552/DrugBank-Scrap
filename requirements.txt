@@ -1,0 +1,7 @@
+aio-cfscrape
+beautifulsoup4
+cloudscraper
+pandas
+tk
+ttkthemes
+termcolor
